@@ -1,0 +1,329 @@
+@media all and (max-width:1200px){
+    .container{
+        padding:0 1.5rem;
+        box-sizing: border-box;
+    }
+    .start-img-1 img {
+	height: 70%;
+}
+.domain-dolar {
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.domain-dolar h5 {
+	margin-top: 3rem;
+}
+
+
+}
+@media all and (min-width:991px){
+
+.click-close {
+	display: none !important;
+}
+.menu ul {
+	display: flex !important;
+}
+
+
+
+}
+@media all and (max-width:990px){
+	.head {
+	flex-direction: column;
+	align-items: center;
+}
+.contact.contact-1 {
+	padding-bottom: 1rem;
+}
+  	.click-menu{
+  		display: block;
+  	}
+  	.menu {
+	display: flex;
+	justify-content: flex-end;
+	flex-direction: column;
+	align-items: end;
+	position: relative;
+}
+.click-close{
+	position: absolute;
+	display: block;
+	top: 3rem;
+	right: 3rem;
+	z-index: 77777;
+}
+.menu ul {
+	position: absolute;
+	flex-direction: column;
+	top: 0rem;
+	right: 0rem;
+	padding: 5rem 14rem;
+	background: #2F3F54;
+	z-index: 2222;
+	width: 16rem;
+}
+.menu ul li {
+	padding: 1rem;
+}
+.menu ul li a{
+	color: #fff;
+}
+.click-close{
+	display: none;
+}
+.menu .hide-menu{
+	display:none ;
+}
+.hosting {
+	display: flex;
+	flex-direction: column;
+}
+.hosting-img {
+	margin-left: 17rem;
+	margin-top: 12rem;
+}
+.banner-area {
+	padding: 9rem 0 20rem 0;
+}
+.service-area {
+	flex-direction: column;
+}
+.lost {
+	padding: 7rem 0rem 0rem 0rem;
+}
+.server-img img {
+	width: 53%;
+}
+.awesome-service-area {
+	padding: 8rem 0;
+}
+.offer-area {
+	flex-direction: column;
+}
+.offer-content.network {
+	padding-top: 2rem;
+}
+.personal-area {
+	display: flex;
+	column-gap: 3rem;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.enter {
+	margin-bottom: 3rem;
+}
+.hidden-charge-area {
+	padding: 0rem 0 9rem 0;
+}
+.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot {
+	display: none;
+}
+.owl-conent {
+	padding: 3rem 0 8rem 0;
+}
+.client-about {
+	margin-bottom: 2rem;
+}
+.program-area {
+	margin-top: 5rem;
+}
+.programs {
+	grid-template-columns: repeat(2, 1fr);
+}
+.programs .knowledge:nth-child(3), .programs .knowledge:nth-child(4) {
+	margin-top: 7rem;
+}
+.knowledge, .logo-footer {
+	margin-left: 5rem;
+}
+
+
+}
+@media all and (max-width:767px){
+.hosting-img {
+	margin-left: 6.9rem;
+	margin-top: 12rem;
+}
+h1 {
+	font-size: 4rem;
+}
+h2 {
+	font-size: 3.5rem;
+}
+.icon-child img {
+	height: 7rem;
+}
+.icon-child h5 {
+	font-size: 1.7rem;
+}
+.offer-content h2 {
+	padding-bottom: 2.4rem;
+}
+.check-sign ul:not(:last-child) {
+	margin-bottom: 2.5rem;
+}
+.enter p {
+	padding: 0 5rem 1rem 5rem;
+}
+.enter h3 {
+	padding: 0 5rem 1rem 5rem;
+}
+.programs {
+	grid-template-columns: repeat(1, 1fr);
+}
+.paypal {
+	flex-direction: column;
+	align-items: start;
+}
+.reserv {
+	flex-direction: column;
+}
+.reciver-area a {
+	margin-bottom: 1.5rem;
+}
+
+
+
+}
+@media all and (max-width:575px){
+	.contact ul {
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.contact-1 ul li a {
+	margin-right: 0;
+	padding-bottom: 1rem;
+	display: block;
+}
+.menu ul {
+	padding: 5rem 7rem;
+}
+.start-img-1 img {
+	height: 50%;
+}
+.hosting-img {
+	margin-left: 6.9rem;
+}
+.starting {
+	top: -8rem;
+	right: -14rem;
+	width: 17rem;
+	height: 17rem;
+}
+.starting .dolar {
+	font-size: 4.4rem;
+}
+.start-img img {
+	width: 11rem;
+	position: relative;
+	top: -13rem;
+	left: 1rem;
+}
+.banner-area {
+	padding: 7rem 0 7rem 0;
+}
+.service-content {
+	padding: 4rem 3rem;
+}
+.service-content h2 {
+	font-size: 3rem;
+}
+.chage-header h2 {
+	padding-bottom: 0rem;
+}
+.programs .knowledge:nth-child(2) {
+	margin-top: 7rem;
+}
+.about-img {
+	padding: 4.4rem 2rem;
+	background: #267AE9;
+}
+.about-img img {
+	width: 8rem !important;
+	height: 8rem;
+}
+
+
+
+
+}
+@media all and (max-width:480px){
+.menu ul {
+	padding: 3rem 5rem;
+}
+.start-img-1 img {
+	height: 36%;
+}
+.start-img img {
+	width: 8rem;
+	position: relative;
+	top: -28rem;
+	left: 2rem;
+}
+.banner-area {
+	padding: 7rem 0 12rem 0;
+}
+.hosting-img {
+	margin-left: 4.9rem;
+	margin-bottom: -10rem;
+}
+.starting {
+	top: -7rem;
+	right: -9rem;
+	width: 14rem;
+	height: 14rem;
+}
+.starting .dolar {
+	font-size: 3.3rem;
+}
+
+.input-area input[type="submit"] {
+	width: 9.6rem;
+	font-size: 1.2rem;
+}
+form {
+	width: 93%;
+	margin: auto;
+}
+.domain-dolar ul {
+	display: flex;
+	flex-direction: column;
+}
+.domain-dolar li {
+	margin-bottom: 2rem;
+}
+.domain {
+	padding: 5rem 0;
+	margin-top: -23rem;
+}
+.service-content h2 {
+	font-size: 2.1rem;
+}
+h2 {
+	font-size: 3rem;
+}
+.traffic-area {
+	padding: 7rem 0;
+}
+.offer-content {
+	padding-top: 8rem;
+}
+.check-sign ul li {
+	font-size: 1.5rem;
+}
+.reserv ul {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.reserv li:last-child {
+	margin-top: 1rem;
+}
+.trad img {
+	max-width: 30.2rem;
+	margin-top: 3rem;
+}
+
+
+}
